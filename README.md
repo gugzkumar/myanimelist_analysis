@@ -14,5 +14,5 @@ There are 3 main components to this project.
 ## View The Notebooks here with The [nbviewer](https://nbviewer.jupyter.org/)
 [AnimeListCleanup.ipynb](https://nbviewer.jupyter.org/github/gugzkumar/myanimelist_analysis/blob/master/AnimeListCleanup.ipynb)<br>
 [AnimeListAnalysis.ipynb](https://nbviewer.jupyter.org/github/gugzkumar/myanimelist_analysis/blob/master/AnimeListAnalysis.ipynb)<br>
-<br>
-* Note that both github and nbviewer render Jupyter Notebooks as static html. The best way to read the notebooks will always be on your local computer.
+
+*Note that both github and nbviewer render Jupyter Notebooks as static html. The best way to view the notebooks will be on your local computer.
